@@ -9,6 +9,7 @@
 * [NWTG Automation](https://github.com/northwesttrees-gaming/NWTG-Automation)
 * [Portal Gates](https://github.com/northwesttrees-gaming/PortalGates)
 * [Real Time Mod](https://github.com/northwesttrees-gaming/Real-Time-Mod)
+* [Space Rift](https://github.com/northwesttrees-gaming/Space-Rift)
 * [YeOldOak](https://github.com/northwesttrees-gaming/YeOldOak)
 
 ### MCreator API Mods
