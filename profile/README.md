@@ -5,6 +5,7 @@
 * [Chatter](https://github.com/northwesttrees-gaming/Chatter)
 * [CCTV Craft](https://github.com/northwesttrees-gaming/CCTV-Craft)
 * [Cultivation](https://github.com/northwesttrees-gaming/Cultivation)
+* [Destination Craft](https://github.com/northwesttrees-gaming/Destination-Craft)
 * [Nodes Plus](https://github.com/northwesttrees-gaming/Nodes-Plus)
 * [NWTG Automation](https://github.com/northwesttrees-gaming/NWTG-Automation)
 * [Portal Gates](https://github.com/northwesttrees-gaming/PortalGates)
