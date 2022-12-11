@@ -2,6 +2,7 @@
 
 # Minecraft Modifications
 ### Modifications
+* [Architecture Plus](https://github.com/northwesttrees-gaming/Architecture-Plus)
 * [Chatter](https://github.com/northwesttrees-gaming/Chatter)
 * [CCTV Craft](https://github.com/northwesttrees-gaming/CCTV-Craft)
 * [Cultivation](https://github.com/northwesttrees-gaming/Cultivation)
