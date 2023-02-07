@@ -7,6 +7,7 @@
 * [CCTV Craft](https://github.com/northwesttrees-gaming/CCTV-Craft)
 * [Cultivation](https://github.com/northwesttrees-gaming/Cultivation)
 * [Destination Craft](https://github.com/northwesttrees-gaming/Destination-Craft)
+* [MoreBlox](https://github.com/northwesttrees-gaming/MoreBlox)
 * [Nodes Plus](https://github.com/northwesttrees-gaming/Nodes-Plus)
 * [NWTG Automation](https://github.com/northwesttrees-gaming/NWTG-Automation)
 * [Portal Gates](https://github.com/northwesttrees-gaming/PortalGates)
