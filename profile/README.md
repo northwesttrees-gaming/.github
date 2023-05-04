@@ -8,6 +8,7 @@
 | [CCTV Craft](https://github.com/northwesttrees-gaming/CCTV-Craft) | Public | [CCTV Craft](https://github.com/northwesttrees-gaming/CCTV-CRAFT-Source) | Private | | |
 | [Cultivation](https://github.com/northwesttrees-gaming/Cultivation) | Public | [Cultivation](https://github.com/northwesttrees-gaming/Cultivation-Source) | Private | | |
 | [Destination Craft](https://github.com/northwesttrees-gaming/Destination-Craft) | Public | [Destination Craft](https://github.com/northwesttrees-gaming/Destination-Craft-Source) | Private | | |
+| MineThralls | Public | MineThralls | Private | | |
 | [MoreBlox](https://github.com/northwesttrees-gaming/MoreBlox) | Public | | | | |
 | [Nodes Plus](https://github.com/northwesttrees-gaming/Nodes-Plus) | Public | [Nodes Plus](https://github.com/northwesttrees-gaming/Nodes-Plus-Backups) | Private | | |
 | [North's Schematics](https://github.com/northwesttrees-gaming/Norths-Schematics) | Public | [North's Schematics Forge](https://github.com/northwesttrees-gaming/Norths-Schematics-Forge) | Private | [North's Schematics Fabric](https://github.com/northwesttrees-gaming/Norths-Schematics-Fabric) | Private |
