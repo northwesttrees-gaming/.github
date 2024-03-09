@@ -1,9 +1,9 @@
 [![github_banner](https://user-images.githubusercontent.com/47284617/196821530-75c52804-ca3c-4509-ae51-099b5aa9d1da.png)](https://github.com/northwesttrees-gaming)
 # Minecraft Mods
 ### Modifications
-| CCTV Craft NeoForge | CCTV Craft Forge | MyEconomy | MineThralls | Portal Gates |
+| CCTVCraft NeoForge | CCTVCraft Forge | MyEconomy | MineThralls | Portal Gates |
 | --- | --- | --- | --- | --- |
-| [![cctvcraft_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/cctvcraft_logo.png)](https://github.com/northwesttrees-gaming/CCTV-Craft-NeoForge) | [![cctvcraft_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/cctvcraft_logo.png)](https://github.com/northwesttrees-gaming/CCTV-Craft-Forge) | [![myeconomy_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/myeconomy_logo.png)](https://github.com/northwesttrees-gaming/MyEconomy) | [![minethralls_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/minethralls_logo.png)](https://github.com/northwesttrees-gaming/MineThralls) | [![portalgates_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/portalgates_logo.png)](https://github.com/northwesttrees-gaming/PortalGates) |
+| [![cctvcraft_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/cctvcraft_logo.png)](https://github.com/northwesttrees-gaming/CCTVCraft-NeoForge) | [![cctvcraft_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/cctvcraft_logo.png)](https://github.com/northwesttrees-gaming/CCTV-Craft-Forge) | [![myeconomy_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/myeconomy_logo.png)](https://github.com/northwesttrees-gaming/MyEconomy) | [![minethralls_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/minethralls_logo.png)](https://github.com/northwesttrees-gaming/MineThralls) | [![portalgates_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/portalgates_logo.png)](https://github.com/northwesttrees-gaming/PortalGates) |
 
 | MoreBlox | Real Time Mod |
 | --- | --- |
