@@ -22,3 +22,7 @@
 | Name | Access | Source Repository | Access |
 | --- | --- | --- | --- |
 | [Balanced Asteroids 2](https://github.com/northwesttrees-gaming/Balanced-Asteroids-2) | Public | | |
+
+# Other Projects
+- [YouTube Thumbnail Helper](https://github.com/northwesttrees-gaming/YouTube-Thumbnail-Helper)
+  - Helps with YouTube thumbnail design by seeing how thumbnails would look across the YouTube platform.
