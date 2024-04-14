@@ -1,28 +1,52 @@
 [![github_banner](https://user-images.githubusercontent.com/47284617/196821530-75c52804-ca3c-4509-ae51-099b5aa9d1da.png)](https://github.com/northwesttrees-gaming)
-# Minecraft Mods
-### Modifications
-| CCTVCraft NeoForge | CCTVCraft Forge | MyEconomy | MineThralls | Portal Gates |
-| --- | --- | --- | --- | --- |
-| [![cctvcraft_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/cctvcraft_logo.png)](https://github.com/northwesttrees-gaming/CCTVCraft-NeoForge) | [![cctvcraft_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/cctvcraft_logo.png)](https://github.com/northwesttrees-gaming/CCTV-Craft-Forge) | [![myeconomy_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/myeconomy_logo.png)](https://github.com/northwesttrees-gaming/MyEconomy) | [![minethralls_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/minethralls_logo.png)](https://github.com/northwesttrees-gaming/MineThralls) | [![portalgates_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/portalgates_logo.png)](https://github.com/northwesttrees-gaming/PortalGates) |
+# FREE TOOLS
+## Tube Helper
+- [Tube Helper](https://github.com/northwesttrees-gaming/Tube-Helper)
+  - Helps with YouTube thumbnail design by seeing how thumbnails would look across the YouTube platform.
 
-| MoreBlox | Real Time Mod |
+# MINECRAFT MODS
+## CCTVCraft
+| NeoForged | Forge |
 | --- | --- |
-| [![moreblox_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/moreblox_logo.png)](https://github.com/northwesttrees-gaming/MoreBlox) | [![realtimemod_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/realtimemod_logo.png)](https://github.com/northwesttrees-gaming/Real-Time-Mod) |
+| [![cctvcraft_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/cctvcraft_neoforged_logo_github.png)](https://github.com/northwesttrees-gaming/CCTVCraft-NeoForge) | [![cctvcraft_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/cctvcraft_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/CCTV-Craft-Forge) | 
 
-### Paused Modifications
-| Chatter |
+## MyEconomy
+| Forge |
 | --- |
-| [![chatter_logo](https://raw.githubusercontent.com/northwesttrees-gaming/.github/main/chatter_logo.png)](https://github.com/northwesttrees-gaming/Chatter) |
+| [![myeconomy_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/myeconomy_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/MyEconomy) |
 
-### More Modifications
-[View Index](https://github.com/northwesttrees-gaming/.github/blob/main/minecraft-mods.md)
+## MoreBlox
+| Forge |
+| --- |
+| [![moreblox_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/moreblox_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/MoreBlox) |
 
-# Starbound Modifications
+## MineThralls
+| Forge |
+| --- |
+| [![minethralls_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/minethralls_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/MineThralls) | 
+
+## Portal Gates
+| Forge |
+| --- |
+[![portalgates_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/portalgates_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/PortalGates) |
+
+## Real Time Mod
+| Forge |
+| --- |
+| [![realtimemod_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/realtimemod_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/Real-Time-Mod) |
+
+## Chatter
+| Forge |
+| --- |
+| [![chatter_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/chatter_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/Chatter) |
+
+## MORE MINECRAFT MODS
+[More...](https://github.com/northwesttrees-gaming/.github/blob/main/minecraft-mods.md)
+
+# STARBOUND MODS
 ### Modifications
 | Name | Access | Source Repository | Access |
 | --- | --- | --- | --- |
 | [Balanced Asteroids 2](https://github.com/northwesttrees-gaming/Balanced-Asteroids-2) | Public | | |
 
-# Other Projects
-- [Tube Helper](https://github.com/northwesttrees-gaming/Tube-Helper)
-  - Helps with YouTube thumbnail design by seeing how thumbnails would look across the YouTube platform.
+
