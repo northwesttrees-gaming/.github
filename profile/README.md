@@ -31,10 +31,9 @@
 [![portalgates_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/portalgates_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/PortalGates) |
 
 ## Real Time Mod
-| Forge |
-| --- |
-| [![realtimemod_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/realtimemod_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/Real-Time-Mod) | 
-| [![realtimemod_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/realtimemod_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/RealTimeMod-Reborn) |
+| NeoForged | Forge |
+| --- | --- |
+| [![realtimemod_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/realtimemod_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/RealTimeMod-Reborn) | [![realtimemod_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/realtimemod_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/Real-Time-Mod) |
 
 ## Chatter
 | Forge |
