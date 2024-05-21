@@ -8,7 +8,9 @@
 | [![cctvcraft_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/cctvcraft_neoforged_logo_github.png)](https://github.com/northwesttrees-gaming/CCTVCraft-NeoForge) | [![cctvcraft_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/cctvcraft_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/CCTV-Craft-Forge) | 
 
 ## Chatter
-- To be added
+| Forge |
+| --- |
+| [![chatter_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/chatter_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/Chatter) |
 
 ## CrownEconomy
 | Forge |
