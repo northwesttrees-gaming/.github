@@ -4,7 +4,9 @@
 
 # MODS
 ## PixelByte
-- To be added
+| Neo Forge |
+| --- |
+| [PixelByte](https://github.com/northwesttrees-gaming/PixelByte) |
 
 ## Portal Gates
 | Forge |
