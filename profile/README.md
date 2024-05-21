@@ -9,12 +9,6 @@
 | Pages | [A](https://github.com/northwesttrees-gaming/.github/tree/main/pages/a) | [C](https://github.com/northwesttrees-gaming/.github/tree/main/pages/c) | [M](https://github.com/northwesttrees-gaming/.github/tree/main/pages/m) | [N](https://github.com/northwesttrees-gaming/.github/tree/main/pages/n) | [P](https://github.com/northwesttrees-gaming/.github/tree/main/pages/p) | [R](https://github.com/northwesttrees-gaming/.github/tree/main/pages/r) |
 | --- | --- | --- | --- | --- | --- | --- |
 
-## Portal Gates
-| Forge |
-| --- |
-[![portalgates_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/portalgates_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/PortalGates) |
-
-
 ## MORE MINECRAFT MODS
 [More...](https://github.com/northwesttrees-gaming/.github/blob/main/minecraft-mods.md)
 
