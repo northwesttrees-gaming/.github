@@ -5,15 +5,9 @@
   - Helps with YouTube thumbnail design by seeing how thumbnails would look across the YouTube platform.
 
 # MINECRAFT MODS
-## CCTVCraft
-| NeoForged | Forge |
-| --- | --- |
-| [![cctvcraft_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/cctvcraft_neoforged_logo_github.png)](https://github.com/northwesttrees-gaming/CCTVCraft-NeoForge) | [![cctvcraft_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/cctvcraft_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/CCTV-Craft-Forge) | 
-
-## CrownEconomy
-| Forge |
-| --- |
-| [![myeconomy_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/myeconomy_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/CrownEconomy) |
+# Minecraft Mods
+| Pages | [A](https://github.com/northwesttrees-gaming/.github/tree/main/pages/a) | [C](https://github.com/northwesttrees-gaming/.github/tree/main/pages/c) | [M](https://github.com/northwesttrees-gaming/.github/tree/main/pages/m) | [N](https://github.com/northwesttrees-gaming/.github/tree/main/pages/n) | [P](https://github.com/northwesttrees-gaming/.github/tree/main/pages/p) | [R](https://github.com/northwesttrees-gaming/.github/tree/main/pages/r) |
+| --- | --- | --- | --- | --- | --- | --- |
 
 ## MoreBlox
 | Forge |
