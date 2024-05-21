@@ -2,5 +2,12 @@
 | Pages | [A](https://github.com/northwesttrees-gaming/.github/tree/main/pages/a) | [C](https://github.com/northwesttrees-gaming/.github/tree/main/pages/c) | [M](https://github.com/northwesttrees-gaming/.github/tree/main/pages/m) | [N](https://github.com/northwesttrees-gaming/.github/tree/main/pages/n) | [P](https://github.com/northwesttrees-gaming/.github/tree/main/pages/p) | [R](https://github.com/northwesttrees-gaming/.github/tree/main/pages/r) |
 | --- | --- | --- | --- | --- | --- | --- |
 # Mods
+## MineThralls
+| Forge |
+| --- |
+| [![minethralls_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/minethralls_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/MineThralls) | 
+
 ## MoreBlox
-- To be added
+| Forge |
+| --- |
+| [![moreblox_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/moreblox_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/MoreBlox) |
