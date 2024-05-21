@@ -3,8 +3,14 @@
 | --- | --- | --- | --- | --- | --- | --- |
 # Mods
 ## CCTVCraft
-- To be added
+| NeoForged | Forge |
+| --- | --- |
+| [![cctvcraft_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/cctvcraft_neoforged_logo_github.png)](https://github.com/northwesttrees-gaming/CCTVCraft-NeoForge) | [![cctvcraft_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/cctvcraft_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/CCTV-Craft-Forge) | 
+
 ## Chatter
 - To be added
+
 ## CrownEconomy
-- To be added
+| Forge |
+| --- |
+| [![myeconomy_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/myeconomy_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/CrownEconomy) |
