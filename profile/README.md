@@ -10,7 +10,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 
 ## MORE MINECRAFT MODS
-[More...](https://github.com/northwesttrees-gaming/.github/blob/main/minecraft-mods.md)
 
 # STARBOUND MODS
 ### Modifications
