@@ -3,6 +3,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 # Mods
 ## Architecture  Plus
-- To be added
+| Forge |
+| --- |
+| [Architecture Plus](https://github.com/northwesttrees-gaming/Architecture-Plus) |
 ## Automation
 - To be added
