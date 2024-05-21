@@ -11,4 +11,4 @@
 ## North's Schematics
 | Forge | Fabric |
 | --- | --- |
-| [Norths Schematics](https://github.com/northwesttrees-gaming/Norths-Schematics) | |
+| [Norths Schematics](https://github.com/northwesttrees-gaming/Norths-Schematics) | [Norths Schematics](https://github.com/northwesttrees-gaming/Norths-Schematics-Fabric) |
