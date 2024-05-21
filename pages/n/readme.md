@@ -9,4 +9,6 @@
 | [NodesPlus](https://github.com/northwesttrees-gaming/Nodes-Plus) |
 
 ## North's Schematics
-- To be added
+| Forge | Fabric |
+| --- | --- |
+| [Norths Schematics](https://github.com/northwesttrees-gaming/Norths-Schematics) | |
