@@ -4,6 +4,9 @@
 
 # MODS
 ## NodesPlus
-- To be added
+| Forge |
+| --- |
+| [NodesPlus](https://github.com/northwesttrees-gaming/Nodes-Plus) |
+
 ## North's Schematics
 - To be added
