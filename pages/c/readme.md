@@ -6,7 +6,7 @@
 ## Calendarz
 | NeoForged |
 | --- |
-| [![cctvcraft_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/cctvcraft_neoforged_logo_github.png)](https://github.com/northwesttrees-gaming/CCTVCraft-NeoForge) |
+| [![Calendarz Logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/calendarz_neoforged_logo_github.png)](https://github.com/northwesttrees-gaming/calendarz) |
 
 ## CCTVCraft
 | NeoForged | Forge |
