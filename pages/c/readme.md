@@ -9,7 +9,7 @@
 | [![Calendarz Logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/calendarz_neoforged_logo_github.png)](https://github.com/northwesttrees-gaming/calendarz) |
 
 ## CCTVCraft
-| NeoForged | Forge |
+| CCTVCraft 5 | CCTVCraft 4 |
 | --- | --- |
 | [![cctvcraft_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/cctvcraft_neoforged_logo_github.png)](https://github.com/northwesttrees-gaming/CCTVCraft-NeoForge) | [![cctvcraft_logo](https://github.com/northwesttrees-gaming/.github/blob/main/mods/logos/cctvcraft_minecraft_forge_logo_github.png)](https://github.com/northwesttrees-gaming/CCTV-Craft-Forge) | 
 
