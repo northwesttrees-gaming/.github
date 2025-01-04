@@ -8,15 +8,16 @@
 | --- | --- | --- | --- | --- | --- |
 | | | [Architecture Plus](https://github.com/northwesttrees-gaming/Architecture-Plus) | Inactive | | |
 | | | [Automation](https://github.com/northwesttrees-gaming/NWTG-Automation) | Inactive | | |
+| [Beyond Planetz](https://github.com/northwesttrees-gaming/BeyondPlanetz) | Active | | | |
 | [CCTV Craft](https://github.com/northwesttrees-gaming/CCTVCraft-NeoForge) | Active | [CCTV Craft](https://github.com/northwesttrees-gaming/CCTVCraft-Forge) | Last Release | | |
 | | | [Chatter](https://github.com/northwesttrees-gaming/Chatter) | Discontinued | | | 
-| [CrownEconomy](https://github.com/northwesttrees-gaming/CrownEconomy) | Active | | | | |
+| [CrownEconomy](https://github.com/northwesttrees-gaming/CrownEconomy) | Inactive | | | | |
 | | | [Cultivation](https://github.com/northwesttrees-gaming/Cultivation) | Inactive | | |
 | | | [Destination Craft](https://github.com/northwesttrees-gaming/Destination-Craft) | Inactive | | |
 | | | [MineThralls](https://github.com/northwesttrees-gaming/MineThralls) | Inactive | | |
-| | | [MoreBlox](https://github.com/northwesttrees-gaming/MoreBlox) | Active | | |
+| | | [MoreBlox](https://github.com/northwesttrees-gaming/MoreBlox) | Inactive | | |
 | | | [Nodes Plus](https://github.com/northwesttrees-gaming/Nodes-Plus) | Inactive | | |
 | | | [North's Schematics](https://github.com/northwesttrees-gaming/Norths-Schematics) | Inactive | [North's Schematics Fabric](https://github.com/northwesttrees-gaming/Norths-Schematics-Fabric) | Inactive |
-| [PixelByte](https://github.com/northwesttrees-gaming/PixelByte) | Active | | | | |
-| | | [Portal Gates](https://github.com/northwesttrees-gaming/PortalGates) | Active | | |
+| [PixelByte](https://github.com/northwesttrees-gaming/PixelByte) | Inactive | | | | |
+| | | [Portal Gates](https://github.com/northwesttrees-gaming/PortalGates) | Inactive | | |
 | [RealTimeMod Reborn](https://github.com/northwesttrees-gaming/RealTimeMod-Reborn) | Active | [Real Time Mod](https://github.com/northwesttrees-gaming/Real-Time-Mod) | Discontinued | | |
